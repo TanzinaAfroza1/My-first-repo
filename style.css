@@ -17,11 +17,14 @@ body{
     color: rgb(248, 244, 252);
     text-align: center;
     padding-top: 100px;
-    font-size: 30px;
+    font-size: 25px;
     
 }
 #ipsum{
     color:bisque;
+    font-size: 20px;
+    width: 65%;
+    margin: 0 auto;
 }
 .button-container-div {
     text-align: center;
@@ -46,9 +49,10 @@ body{
 }
 .dolor p{
     text-align: center;
-    font-size: 25px;
+    font-size: 18px;
     width: 650px;
     margin: 30px auto;
+    font-weight: 300;
 }
 
 .amount-tk{
